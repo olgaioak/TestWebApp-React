@@ -29,3 +29,13 @@
     text-decoration: none;
   }
   
+  .deletedMsg {
+    text-align: center;
+    color: green;
+  }
+
+  @media (min-width: 768px) {
+  .btn-align {
+    text-align: center;
+  }
+}
